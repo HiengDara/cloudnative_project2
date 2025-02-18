@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const url = 'mongodb+srv://darahieng9999:<db_password>@cluster0.4hdfw.mongodb.net/cloudnative_assignment2?retryWrites=true&w=majority&appName=Cluster0';
+const url = 'mongodb+srv://darahieng9999:<Focl7faVsFD6S5J0>@cluster0.4hdfw.mongodb.net/cloudnative_assignment2?retryWrites=true&w=majority&appName=Cluster0';
 
 // Function to connect to MongoDB
 const connectDB = async () => {
